@@ -1,0 +1,15 @@
+D:\Project_Folder\C#\BaekJoon\Baekjoon_1\bin\Debug\net6.0\Baekjoon_1.exe
+D:\Project_Folder\C#\BaekJoon\Baekjoon_1\bin\Debug\net6.0\Baekjoon_1.deps.json
+D:\Project_Folder\C#\BaekJoon\Baekjoon_1\bin\Debug\net6.0\Baekjoon_1.runtimeconfig.json
+D:\Project_Folder\C#\BaekJoon\Baekjoon_1\bin\Debug\net6.0\Baekjoon_1.dll
+D:\Project_Folder\C#\BaekJoon\Baekjoon_1\bin\Debug\net6.0\Baekjoon_1.pdb
+D:\Project_Folder\C#\BaekJoon\Baekjoon_1\obj\Debug\net6.0\Baekjoon_1.csproj.AssemblyReference.cache
+D:\Project_Folder\C#\BaekJoon\Baekjoon_1\obj\Debug\net6.0\Baekjoon_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_Folder\C#\BaekJoon\Baekjoon_1\obj\Debug\net6.0\Baekjoon_1.AssemblyInfoInputs.cache
+D:\Project_Folder\C#\BaekJoon\Baekjoon_1\obj\Debug\net6.0\Baekjoon_1.AssemblyInfo.cs
+D:\Project_Folder\C#\BaekJoon\Baekjoon_1\obj\Debug\net6.0\Baekjoon_1.csproj.CoreCompileInputs.cache
+D:\Project_Folder\C#\BaekJoon\Baekjoon_1\obj\Debug\net6.0\Baekjoon_1.dll
+D:\Project_Folder\C#\BaekJoon\Baekjoon_1\obj\Debug\net6.0\refint\Baekjoon_1.dll
+D:\Project_Folder\C#\BaekJoon\Baekjoon_1\obj\Debug\net6.0\Baekjoon_1.pdb
+D:\Project_Folder\C#\BaekJoon\Baekjoon_1\obj\Debug\net6.0\Baekjoon_1.genruntimeconfig.cache
+D:\Project_Folder\C#\BaekJoon\Baekjoon_1\obj\Debug\net6.0\ref\Baekjoon_1.dll
